@@ -1,4 +1,4 @@
-migrate_redmin2x
+migrate_redmin2x_scripts
 ================
 
 # Description
@@ -11,7 +11,7 @@ bash
 * FreeBSD 8.2
 
 # How to use
-bash migrate_redmine2x/copy_redmine.bash <old_redmine_path> <new_redmine_path>
+bash migrate_redmine2x_scripts/migrate_redmine2x.bash <old_redmine_path> <new_redmine_path>
 
 # License
 This software is released under the MIT License, seet LICENSE.txt
